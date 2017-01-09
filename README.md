@@ -15,9 +15,9 @@ tailxlsx is go-lang application to provide see content of xlsx files (Microsoft 
 tailxlsx test.xlsx
 ```
 +----+----+----+
-|  1a | 1b  | 1c |
+| 1a | 1b | 1c |
 +----+----+----+
-|  2a | 2b  | 3c |
+| 2a | 2b | 3c |
 +----+----+----+
 ```
 
